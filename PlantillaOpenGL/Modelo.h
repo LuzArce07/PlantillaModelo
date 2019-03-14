@@ -27,10 +27,9 @@ public:
 
 
 	Modelo();
+
 	void inicializarVertexArray(GLuint posicionID, GLuint colorID);
 
 	void dibujar(GLenum modoDibujo);
-
-
-	
+		
 };
