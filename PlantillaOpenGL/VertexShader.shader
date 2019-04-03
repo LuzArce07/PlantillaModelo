@@ -2,7 +2,7 @@
 //La primera linea SIEMPRE es la version
 
 //Atributos de entrada (vienen desde c++)
-in vec3 posicion;
+in vec4 posicion;
 in vec4 color;
 
 
